@@ -152,88 +152,146 @@
     "brand_key": "skybags",
     "brand_name": "Skybags",
     "pricing": {
-      "avg_price": 2199.0,
-      "median_price": 2199.0,
-      "min_price": 2199,
-      "max_price": 2199,
-      "avg_mrp": 4500.0,
-      "avg_discount_pct": 51.0,
-      "price_band": "budget"
+      "avg_price": 4437.06,
+      "median_price": 3999.3,
+      "min_price": 1869.0,
+      "max_price": 6999.0,
+      "avg_mrp": 11474.14,
+      "avg_discount_pct": 54.8,
+      "price_band": "mid-range"
     },
     "ratings": {
-      "avg_rating": 4.0,
-      "total_reviews": 8700,
-      "products_count": 1
+      "avg_rating": 4.17,
+      "total_reviews": 46315,
+      "products_count": 7
     },
     "sentiment": {
-      "score": 68.1,
-      "positive_pct": 50.0,
+      "score": 59.5,
+      "positive_pct": 72.0,
       "neutral_pct": 0.0,
-      "negative_pct": 50.0,
-      "total_reviews_scored": 10
+      "negative_pct": 28.0,
+      "total_reviews_scored": 50
     },
     "themes": {
       "positive": [
-        "excellent",
-        "fresh",
-        "working",
-        "perfectly"
+        "good",
+        "quality",
+        "easy",
+        "trolley",
+        "design",
+        "price",
+        "wheels",
+        "weight"
       ],
       "negative": [
-        "terrible",
-        "back",
-        "then",
-        "long"
+        "quality",
+        "trolley",
+        "they",
+        "also",
+        "upto",
+        "that",
+        "good",
+        "sturdy"
       ]
     },
     "aspects": {
       "wheels": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.27,
+        "mentions": 9,
+        "sample_pos": [
+          "good quality wheels and zippers3.",
+          "i really like this skybags trolly.easy to carry with 360 spinner wheels.",
+          "wheels movement is very smooth because of which the bag can be handled easily."
+        ],
+        "sample_neg": [
+          "wheels are too good.cons : weak aesthetics"
+        ]
       },
       "handle": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.383,
+        "mentions": 4,
+        "sample_pos": [
+          "the only saving grace was the quick refund process, which was handled well.",
+          "wheels movement is very smooth because of which the bag can be handled easily.",
+          "wheels are super smooth and a different color to easily spot from the baggage counter.the handles are strong; and the zip works perfectly fine (take it from someone who used it for three weeks continuously).outer cover is tough, i.e."
+        ],
+        "sample_neg": [
+          "the handle is not that good."
+        ]
       },
       "zipper": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.326,
+        "mentions": 7,
+        "sample_pos": [
+          "the zipper openings make it easy to use the lid without removing the cover.✅ high-quality material: made of durable, thick fabric that feels premium.",
+          "good quality wheels and zippers3.",
+          "the lock system and zipper works very well and smoothly."
+        ],
+        "sample_neg": [
+          "zipline waa bad  and damaged"
+        ]
       },
       "material": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.41,
+        "mentions": 9,
+        "sample_pos": [
+          "the zipper openings make it easy to use the lid without removing the cover.✅ high-quality material: made of durable, thick fabric that feels premium.",
+          "it’s waterproof and dustproof — ideal for protecting the machine from rain, dust, sun, and pollution.✅ easy to clean: just wipe with a damp cloth — no special care needed!✅ looks great: the sleek and modern design blends well with my laundry area.✅ value for money: excellent quality at this price range — definitely worth it.",
+          "the durable construction and high-quality materials justify the this sleek, multi-compartment trolley bag is a perfect travel companion."
+        ],
         "sample_neg": []
       },
       "durability": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.405,
+        "mentions": 31,
+        "sample_pos": [
+          "the zipper openings make it easy to use the lid without removing the cover.✅ high-quality material: made of durable, thick fabric that feels premium.",
+          "it’s waterproof and dustproof — ideal for protecting the machine from rain, dust, sun, and pollution.✅ easy to clean: just wipe with a damp cloth — no special care needed!✅ looks great: the sleek and modern design blends well with my laundry area.✅ value for money: excellent quality at this price range — definitely worth it.",
+          "excellent package and excellent quality of product."
+        ],
+        "sample_neg": [
+          "very sturdy product but faced problem with lock.",
+          "from a reputed brand and a platform of that scale, i expected at least basic quality, not this kind of negligence.the product arrived with 2 holes in it, completely unacceptable.",
+          "it was very light weight and quality was not upto the mark not worth for money."
+        ]
       },
       "size": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.4,
+        "mentions": 17,
+        "sample_pos": [
+          "perfect fit & design: fits my top load washing machine perfectly — snug and secure without being too tight.",
+          "best cabin trolley",
+          "they are very strong and sturdy and very spacious"
+        ],
+        "sample_neg": [
+          "large size luggage at just 3.78kg empty weight.2.",
+          "zero star don't buy this pathetic trolley, it's very small.."
+        ]
       },
       "lock": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.01,
+        "mentions": 4,
+        "sample_pos": [
+          "the lock system and zipper works very well and smoothly.",
+          "also delivery is not upto the mark for the delicate product like trolly number of scratches are there and lock number wheel is also loose."
+        ],
+        "sample_neg": [
+          "very sturdy product but faced problem with lock."
+        ]
       },
       "weight": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.219,
+        "mentions": 16,
+        "sample_pos": [
+          "super light weight spacious trolley!!such an elegant english blue colour trolley.",
+          "over all loving this spacious, contact , light weight trolley.",
+          "its lightweight design and ample storage make it easy to pack and maneuver."
+        ],
+        "sample_neg": [
+          "it was very light weight and quality was not upto the mark not worth for money.",
+          "large size luggage at just 3.78kg empty weight.2.",
+          "so out of allowable 15kgs it is not worth for air journey!"
+        ]
       }
     },
     "anomalies": []
@@ -242,87 +300,123 @@
     "brand_key": "american_tourister",
     "brand_name": "American Tourister",
     "pricing": {
-      "avg_price": 3999.0,
-      "median_price": 3999.0,
-      "min_price": 3999,
-      "max_price": 3999,
-      "avg_mrp": 6500.0,
-      "avg_discount_pct": 38.0,
-      "price_band": "mid-range"
+      "avg_price": 7415.6,
+      "median_price": 9999.0,
+      "min_price": 2049.0,
+      "max_price": 10999.0,
+      "avg_mrp": 19594.0,
+      "avg_discount_pct": 63.4,
+      "price_band": "premium"
     },
     "ratings": {
-      "avg_rating": 4.5,
-      "total_reviews": 12400,
-      "products_count": 1
+      "avg_rating": 4.34,
+      "total_reviews": 10950,
+      "products_count": 5
     },
     "sentiment": {
-      "score": 68.1,
-      "positive_pct": 50.0,
+      "score": 73.3,
+      "positive_pct": 87.9,
       "neutral_pct": 0.0,
-      "negative_pct": 50.0,
-      "total_reviews_scored": 10
+      "negative_pct": 12.1,
+      "total_reviews_scored": 33
     },
     "themes": {
       "positive": [
-        "excellent",
-        "fresh",
-        "working",
-        "perfectly"
+        "good",
+        "quality",
+        "sturdy",
+        "wheels",
+        "value",
+        "money",
+        "great",
+        "durable"
       ],
       "negative": [
-        "terrible",
-        "back",
-        "then",
-        "long"
+        "quality",
+        "same",
+        "item",
+        "small",
+        "poor",
+        "immediately",
+        "initiated",
+        "return"
       ]
     },
     "aspects": {
       "wheels": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.516,
+        "mentions": 5,
+        "sample_pos": [
+          "a sturdy, lightweight suitcase with smooth wheels and practical storage, ideal for short to medium trips.offers good durability and value for money, though frequent flyers may prefer a premium-grade shell.",
+          "appears good and easy on wheels.",
+          "very good quality materials used,sturdy and the wheels are still intact."
+        ],
         "sample_neg": []
       },
       "handle": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.102,
+        "mentions": 3,
+        "sample_pos": [
+          "good and stylish matte black colour but handle is little bit thin not feel strong otherwise product is good at this price range"
+        ],
         "sample_neg": []
       },
       "zipper": {
-        "score": null,
-        "mentions": 0,
+        "score": 0.0,
+        "mentions": 1,
         "sample_pos": [],
         "sample_neg": []
       },
       "material": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.502,
+        "mentions": 3,
+        "sample_pos": [
+          "great value for money.butcompared to my other previously bought american tourister luggage, this bag has inner lining of some stiff plastic like material and not soft fabric.otherwise no other complaint.",
+          "very good quality materials used,sturdy and the wheels are still intact."
+        ],
         "sample_neg": []
       },
       "durability": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.445,
+        "mentions": 24,
+        "sample_pos": [
+          "it is good quality.",
+          "good quality with ease of handling, quality is top notch 👍🏽👌🏽",
+          "a sturdy, lightweight suitcase with smooth wheels and practical storage, ideal for short to medium trips.offers good durability and value for money, though frequent flyers may prefer a premium-grade shell."
+        ],
+        "sample_neg": [
+          "the item was small and poor quality."
+        ]
       },
       "size": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.161,
+        "mentions": 7,
+        "sample_pos": [
+          "the build quality is good though and the capacity is great.",
+          "mobility - all wheels movable 360* with good load carrying capacitycons:1.",
+          "since its hard case - there are certain challenges in fitting it into cramped spaces in a small car's boot space provided."
+        ],
+        "sample_neg": [
+          "the item was small and poor quality.",
+          "it could be a struggle with a hatchback or small cars (very subjective)2."
+        ]
       },
       "lock": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.952,
+        "mentions": 1,
+        "sample_pos": [
+          "bahut aacha hai must buy, color wise, strength wise value for money locks and besttt and for travel is great option to go with additional durable as well"
+        ],
         "sample_neg": []
       },
       "weight": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.266,
+        "mentions": 7,
+        "sample_pos": [
+          "a sturdy, lightweight suitcase with smooth wheels and practical storage, ideal for short to medium trips.offers good durability and value for money, though frequent flyers may prefer a premium-grade shell.",
+          "not value for money, weight was less, that’s the prosand the handling thing was not thick, its somehow felt like not durable, but overall it was okey",
+          "amazing product, light weight, good design, durable"
+        ],
         "sample_neg": []
       }
     },
@@ -332,88 +426,141 @@
     "brand_key": "vip",
     "brand_name": "Vip",
     "pricing": {
-      "avg_price": 2499.0,
-      "median_price": 2499.0,
-      "min_price": 2499,
-      "max_price": 2499,
-      "avg_mrp": 4800.0,
-      "avg_discount_pct": 48.0,
-      "price_band": "budget"
+      "avg_price": 7061.4,
+      "median_price": 6325.0,
+      "min_price": 3999.0,
+      "max_price": 12085.0,
+      "avg_mrp": 11247.33,
+      "avg_discount_pct": 36.2,
+      "price_band": "premium"
     },
     "ratings": {
-      "avg_rating": 3.9,
-      "total_reviews": 4200,
-      "products_count": 1
+      "avg_rating": 4.26,
+      "total_reviews": 744,
+      "products_count": 6
     },
     "sentiment": {
-      "score": 68.1,
-      "positive_pct": 50.0,
+      "score": 66.7,
+      "positive_pct": 73.1,
       "neutral_pct": 0.0,
-      "negative_pct": 50.0,
-      "total_reviews_scored": 10
+      "negative_pct": 26.9,
+      "total_reviews_scored": 26
     },
     "themes": {
       "positive": [
-        "excellent",
-        "fresh",
-        "working",
-        "perfectly"
+        "good",
+        "quality",
+        "weight",
+        "wheels",
+        "trolley",
+        "lock",
+        "best",
+        "color"
       ],
       "negative": [
-        "terrible",
-        "back",
-        "then",
-        "long"
+        "zipper",
+        "handle",
+        "feels",
+        "inside",
+        "such",
+        "size",
+        "from",
+        "separate"
       ]
     },
     "aspects": {
       "wheels": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.505,
+        "mentions": 5,
+        "sample_pos": [
+          "i really liked this product from vip..the look is really sleek and love the color metallic ..it has a hard case and is sturdy with scratch resistance..size is good if you are going for a solo trip for 7 to 8 days..very light in weight and the wheels move 360 degree..very comfortable to move..zipper closure looks durable",
+          "it’s super lightweight, and the 360-degree rotating wheels make it easy to move around.",
+          "the 360 degree wheels helps you to move the trolley effortless."
+        ],
         "sample_neg": []
       },
       "handle": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": -0.196,
+        "mentions": 4,
+        "sample_pos": [
+          "prone to scratches as the material is soft so you have to handle it carefully."
+        ],
+        "sample_neg": [
+          "the handle is very cheap and not sturdy, feels like it can break anytime also it takes too much space inside the bag so tye soace is very limited.",
+          "handle was not moving to downward and zip have problem."
+        ]
       },
       "zipper": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.107,
+        "mentions": 10,
+        "sample_pos": [
+          "i really liked this product from vip..the look is really sleek and love the color metallic ..it has a hard case and is sturdy with scratch resistance..size is good if you are going for a solo trip for 7 to 8 days..very light in weight and the wheels move 360 degree..very comfortable to move..zipper closure looks durable",
+          "the zipper closure also seems strong and durable.",
+          "that seperate zip for laptop is the reason i bought this and that is working very well."
+        ],
+        "sample_neg": [
+          "the zip quality is not good.",
+          "no separate zip pocket inside to separate wet items..",
+          "handle was not moving to downward and zip have problem."
+        ]
       },
       "material": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.208,
+        "mentions": 10,
+        "sample_pos": [
+          "the quality of trolley materials is very good.",
+          "i like the quality of product as the material is very good and stronger.",
+          "the vibrant red color gives it a stylish touch, and the polycarbonate material makes it tough yet light."
+        ],
+        "sample_neg": [
+          "manufacturing defect as zipper wrongly fixed inside-out, thus making it impossible to open the zipper without tearing the cover cloth."
+        ]
       },
       "durability": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.347,
+        "mentions": 17,
+        "sample_pos": [
+          "truly speaking the quality of this trolly is best.",
+          "i really liked this product from vip..the look is really sleek and love the color metallic ..it has a hard case and is sturdy with scratch resistance..size is good if you are going for a solo trip for 7 to 8 days..very light in weight and the wheels move 360 degree..very comfortable to move..zipper closure looks durable",
+          "the zipper closure also seems strong and durable."
+        ],
+        "sample_neg": [
+          "the hard case feels sturdy and is resistant to scratches.",
+          "the zip quality is not good.",
+          "the handle is very cheap and not sturdy, feels like it can break anytime also it takes too much space inside the bag so tye soace is very limited."
+        ]
       },
       "size": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.386,
+        "mentions": 7,
+        "sample_pos": [
+          "i really liked this product from vip..the look is really sleek and love the color metallic ..it has a hard case and is sturdy with scratch resistance..size is good if you are going for a solo trip for 7 to 8 days..very light in weight and the wheels move 360 degree..very comfortable to move..zipper closure looks durable",
+          "the size is perfect for a solo trip of about 7 to 8 days.",
+          "the bag's compact size fits perfectly for short trips, and the combination lock adds a layer of security."
+        ],
         "sample_neg": []
       },
       "lock": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.561,
+        "mentions": 4,
+        "sample_pos": [
+          "lock system is also good as the both keys are attached with a single lock with digit i only know.",
+          "the bag's compact size fits perfectly for short trips, and the combination lock adds a layer of security.",
+          "use padlock for security as number lock can be opened easily if you know the trick."
+        ],
         "sample_neg": []
       },
       "weight": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.34,
+        "mentions": 10,
+        "sample_pos": [
+          "i really liked this product from vip..the look is really sleek and love the color metallic ..it has a hard case and is sturdy with scratch resistance..size is good if you are going for a solo trip for 7 to 8 days..very light in weight and the wheels move 360 degree..very comfortable to move..zipper closure looks durable",
+          "it’s super lightweight, and the 360-degree rotating wheels make it easy to move around.",
+          "weight is also not so far and the design is looking awesome."
+        ],
+        "sample_neg": [
+          "most of international flights ,my other trollies have been braked  due to poor handling by air staff."
+        ]
       }
     },
     "anomalies": []
@@ -422,88 +569,143 @@
     "brand_key": "aristocrat",
     "brand_name": "Aristocrat",
     "pricing": {
-      "avg_price": 1699.0,
-      "median_price": 1699.0,
-      "min_price": 1699,
-      "max_price": 1699,
-      "avg_mrp": 3500.0,
-      "avg_discount_pct": 51.0,
-      "price_band": "budget"
+      "avg_price": 3612.55,
+      "median_price": 3380.82,
+      "min_price": 1655.0,
+      "max_price": 5639.0,
+      "avg_mrp": 15162.5,
+      "avg_discount_pct": 75.43,
+      "price_band": "mid-range"
     },
     "ratings": {
-      "avg_rating": 3.7,
-      "total_reviews": 3900,
-      "products_count": 1
+      "avg_rating": 4.05,
+      "total_reviews": 21104,
+      "products_count": 8
     },
     "sentiment": {
-      "score": 68.1,
-      "positive_pct": 50.0,
+      "score": 68.9,
+      "positive_pct": 76.7,
       "neutral_pct": 0.0,
-      "negative_pct": 50.0,
-      "total_reviews_scored": 10
+      "negative_pct": 23.3,
+      "total_reviews_scored": 60
     },
     "themes": {
       "positive": [
-        "excellent",
-        "fresh",
-        "working",
-        "perfectly"
+        "good",
+        "quality",
+        "nice",
+        "price",
+        "great",
+        "color",
+        "handle",
+        "wheels"
       ],
       "negative": [
-        "terrible",
-        "back",
-        "then",
-        "long"
+        "quality",
+        "good",
+        "scratches",
+        "worst",
+        "fine",
+        "first",
+        "hard",
+        "material"
       ]
     },
     "aspects": {
       "wheels": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.339,
+        "mentions": 11,
+        "sample_pos": [
+          "the wheels look solid and are the kind that spin all the way around, which is a lifesaver when you're rushing through the airport.inside, it's just as good.",
+          "else the material is duarable and when wheels were fine it is easy to use.",
+          "the wheels move smoothly and the handle is comfortable to use."
+        ],
+        "sample_neg": [
+          "it's wheel got bron on the very first use and it's so big make it bulky and hard to carry if it is heavy."
+        ]
       },
       "handle": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.562,
+        "mentions": 8,
+        "sample_pos": [
+          "not that recomented , the product is good but not that hard , the trolly handle is inside the cabin , better to try some other",
+          "the shell feels tough, like it can handle getting thrown around a bit.",
+          "i also noticed you can unzip the whole lining, which is a smart design choice for getting to the frame or just cleaning it out.the handle is still wrapped up, but it looks like the standard kind you extend."
+        ],
         "sample_neg": []
       },
       "zipper": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.412,
+        "mentions": 14,
+        "sample_pos": [
+          "great product, this is the second trolley bag from aristocrat.i need to say this, what i recieved is a great product, couple times i stand on the box to reach for items on top of cupboard it hand held me without any probs the zip held strong, i weigh 75kg.great trolley for travel easily can carry 30kg wieght, its value for money and durable.",
+          "the zippers are super smooth and don't snag at all, which is a pet peeve of mine.",
+          "there's a zippered divider inside, which is awesome for keeping my clothes separate from shoes or other items."
+        ],
+        "sample_neg": [
+          "scratches on the product, zip quality not good...",
+          "no zepper toung to the zipper inside the suitcase, has a mark on one of the corner - might be the sing of the impact after hitting a hard surface - wondering if they send me used/ returned item."
+        ]
       },
       "material": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.395,
+        "mentions": 12,
+        "sample_pos": [
+          "the lining is a dark grey fabric with a neat honeycomb pattern.",
+          "there's a zippered divider inside, which is awesome for keeping my clothes separate from shoes or other items.",
+          "strong material."
+        ],
+        "sample_neg": [
+          "quality of bag not liked by me as it was very low quality material as if it will break in a while."
+        ]
       },
       "durability": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.428,
+        "mentions": 50,
+        "sample_pos": [
+          "great product, this is the second trolley bag from aristocrat.i need to say this, what i recieved is a great product, couple times i stand on the box to reach for items on top of cupboard it hand held me without any probs the zip held strong, i weigh 75kg.great trolley for travel easily can carry 30kg wieght, its value for money and durable.",
+          "very stylish, sturdy and good quality!!",
+          "great quality, good for 3 to 4 days travel."
+        ],
+        "sample_neg": [
+          "quality is a little low as compared to similar aristocrat trolley bags available at the same price",
+          "scratches on the product, zip quality not good...",
+          "worst quality"
+        ]
       },
       "size": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.429,
+        "mentions": 15,
+        "sample_pos": [
+          "not that recomented , the product is good but not that hard , the trolly handle is inside the cabin , better to try some other",
+          "i went for the large size, and it's even better in person than i expected.first off, i love the look of it.",
+          "the size seemed smaller and i was concerned about the quality but it survived."
+        ],
         "sample_neg": []
       },
       "lock": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.025,
+        "mentions": 6,
+        "sample_pos": [
+          "the code lock makes for security.",
+          "combination lock for extra safety."
+        ],
+        "sample_neg": [
+          "no so good locking but serves the purpose.",
+          "lock was broken (not outside but inside, more specifically, i couldn't set my own code)2."
+        ]
       },
       "weight": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.413,
+        "mentions": 9,
+        "sample_pos": [
+          "great product, this is the second trolley bag from aristocrat.i need to say this, what i recieved is a great product, couple times i stand on the box to reach for items on top of cupboard it hand held me without any probs the zip held strong, i weigh 75kg.great trolley for travel easily can carry 30kg wieght, its value for money and durable.",
+          "light weight, easy to handle and good color",
+          "it is lightweight and stylish, making it easy to carry."
+        ],
+        "sample_neg": [
+          "it's wheel got bron on the very first use and it's so big make it bulky and hard to carry if it is heavy."
+        ]
       }
     },
     "anomalies": []
@@ -512,88 +714,139 @@
     "brand_key": "nasher_miles",
     "brand_name": "Nasher Miles",
     "pricing": {
-      "avg_price": 3299.0,
-      "median_price": 3299.0,
-      "min_price": 3299,
-      "max_price": 3299,
-      "avg_mrp": 5200.0,
-      "avg_discount_pct": 37.0,
-      "price_band": "mid-range"
+      "avg_price": 5314.8,
+      "median_price": 5999.0,
+      "min_price": 3129.0,
+      "max_price": 7149.0,
+      "avg_mrp": 17137.0,
+      "avg_discount_pct": 72.2,
+      "price_band": "premium"
     },
     "ratings": {
-      "avg_rating": 4.4,
-      "total_reviews": 4100,
-      "products_count": 1
+      "avg_rating": 3.64,
+      "total_reviews": 1357,
+      "products_count": 8
     },
     "sentiment": {
-      "score": 68.1,
-      "positive_pct": 50.0,
+      "score": 60.2,
+      "positive_pct": 68.9,
       "neutral_pct": 0.0,
-      "negative_pct": 50.0,
-      "total_reviews_scored": 10
+      "negative_pct": 31.1,
+      "total_reviews_scored": 45
     },
     "themes": {
       "positive": [
-        "excellent",
-        "fresh",
-        "working",
-        "perfectly"
+        "good",
+        "sturdy",
+        "quality",
+        "nice",
+        "looks",
+        "great",
+        "color",
+        "wheels"
       ],
       "negative": [
-        "terrible",
-        "back",
-        "then",
-        "long"
+        "they",
+        "after",
+        "quality",
+        "using",
+        "worst",
+        "time",
+        "broke",
+        "just"
       ]
     },
     "aspects": {
       "wheels": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.452,
+        "mentions": 7,
+        "sample_pos": [
+          "very beautiful mint green( the color range is so beautiful we had a hard time to pick one), light weight , smooth wheels rotating 360, i bought this for my daughter's first school trip and she enjoyed it as carrying it around was too easy and smooth for her, i am going to buy the medium and large size too once she's getting ready for college in few months.thanks to nash miller for their great range of products and ofcourse  amazon for the best price and great delivery .",
+          "the wheels are nice and silent, making it easy to maneuver.",
+          "pretty luggage with good zips and wheels."
+        ],
         "sample_neg": []
       },
       "handle": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": -0.082,
+        "mentions": 6,
+        "sample_pos": [
+          "when asked for the repair, as the handle came out and was not broken, they acknowledged that it's their problem and they will resolve it."
+        ],
+        "sample_neg": [
+          "the bag handle broke both times when i used it for my travel.",
+          "handle broke at the first use itself."
+        ]
       },
       "zipper": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.052,
+        "mentions": 5,
+        "sample_pos": [
+          "pretty luggage with good zips and wheels.",
+          "nasher miles hawaii tsa lock and anti-theft zipper product is very very good product, i already purchase this product and looks is beautiful."
+        ],
+        "sample_neg": [
+          "scratches all over in no time, zip puller broke in just my 4th time using the bag.",
+          "very bad product quality, especially zip quality, not worth the money."
+        ]
       },
       "material": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.279,
+        "mentions": 5,
+        "sample_pos": [
+          "i packed around 1 week trip clothes and other items so size is good, looks sturdy enough, design is great.",
+          "overall, it’s worth buying and provides absolute value for money!",
+          "the material used inside the bag should be in more basic colour like white or blac krather than orange colour"
+        ],
+        "sample_neg": [
+          "slight damages of inner fabric lining observed where the metal rivets rub along."
+        ]
       },
       "durability": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.249,
+        "mentions": 30,
+        "sample_pos": [
+          "good quality trolley.",
+          "i packed around 1 week trip clothes and other items so size is good, looks sturdy enough, design is great.",
+          "really good product it is upto it's mark as scratch resistant, light weight and sturdy but one less star is for its body it's not as tough as it looks...."
+        ],
+        "sample_neg": [
+          "review after using it for 15 months (3- 4 domestic trips).while the product looks a bit fancy, the quality is the worst.",
+          "scratches all over in no time, zip puller broke in just my 4th time using the bag.",
+          "the bag handle broke both times when i used it for my travel."
+        ]
       },
       "size": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.718,
+        "mentions": 9,
+        "sample_pos": [
+          "i packed around 1 week trip clothes and other items so size is good, looks sturdy enough, design is great.",
+          "very beautiful mint green( the color range is so beautiful we had a hard time to pick one), light weight , smooth wheels rotating 360, i bought this for my daughter's first school trip and she enjoyed it as carrying it around was too easy and smooth for her, i am going to buy the medium and large size too once she's getting ready for college in few months.thanks to nash miller for their great range of products and ofcourse  amazon for the best price and great delivery .",
+          "if you are 55 kgs you can even sit on it but don't give your entire body weight to it.that's its strength and super good colour, lock system loved it.worth at this price, according to its size and the compartment inside it super cute, comfy, product wise 10 on 10.must buy."
+        ],
         "sample_neg": []
       },
       "lock": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
+        "score": 0.547,
+        "mentions": 5,
+        "sample_pos": [
+          "if you are 55 kgs you can even sit on it but don't give your entire body weight to it.that's its strength and super good colour, lock system loved it.worth at this price, according to its size and the compartment inside it super cute, comfy, product wise 10 on 10.must buy.",
+          "the compartments are spacious and the lock works good.",
+          "nasher miles hawaii tsa lock and anti-theft zipper product is very very good product, i already purchase this product and looks is beautiful."
+        ],
         "sample_neg": []
       },
       "weight": {
-        "score": null,
-        "mentions": 0,
-        "sample_pos": [],
-        "sample_neg": []
+        "score": 0.382,
+        "mentions": 10,
+        "sample_pos": [
+          "really good product it is upto it's mark as scratch resistant, light weight and sturdy but one less star is for its body it's not as tough as it looks....",
+          "very beautiful mint green( the color range is so beautiful we had a hard time to pick one), light weight , smooth wheels rotating 360, i bought this for my daughter's first school trip and she enjoyed it as carrying it around was too easy and smooth for her, i am going to buy the medium and large size too once she's getting ready for college in few months.thanks to nash miller for their great range of products and ofcourse  amazon for the best price and great delivery .",
+          "i would have been okay if this could have happened after 3+ years not within 15 months and just 4 flights."
+        ],
+        "sample_neg": [
+          "slight damages of inner fabric lining observed where the metal rivets rub along."
+        ]
       }
     },
     "anomalies": []
