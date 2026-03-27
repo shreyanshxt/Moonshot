@@ -1,0 +1,50 @@
+[
+  {
+    "type": "value_for_money",
+    "headline": "Nasher Miles delivers the best value-for-money",
+    "detail": "Sentiment score of 72.8 at an avg price of ₹3,799 — the best sentiment-per-rupee ratio across all brands. It punches at near-premium quality while staying firmly in the mid-range band.",
+    "brand": "nasher_miles"
+  },
+  {
+    "type": "discount_dependency",
+    "headline": "Aristocrat relies heavily on discounting to drive demand",
+    "detail": "Avg discount of 50% — highest in the dataset — but only 3.8★ rating. Heavy discounting may signal product perception issues rather than genuine demand generation. Buyers may feel it's only worth purchasing on sale.",
+    "brand": "aristocrat"
+  },
+  {
+    "type": "hidden_dissatisfaction",
+    "headline": "Skybags has a rating–sentiment gap worth watching",
+    "detail": "Star rating implies ~80/100 satisfaction but review sentiment score is only 66.8/100. Customers tend to rate generously (4★) but write critically — especially about zipper and handle quality. The star average masks real dissatisfaction.",
+    "brand": "skybags"
+  },
+  {
+    "type": "anomaly",
+    "headline": "Aspect anomaly: Skybags zipper complaints",
+    "detail": "Skybags: strong zipper complaints (avg VADER -0.31) despite 4.0★ overall rating. Zipper failures are the single most mentioned negative theme, but the brand's aggregate rating remains high, likely pulled up by satisfied buyers who haven't experienced long-term use.",
+    "brand": "skybags"
+  },
+  {
+    "type": "anomaly",
+    "headline": "Aspect anomaly: VIP wheel quality",
+    "detail": "VIP: strong wheel complaints (avg VADER -0.22) across 98 mentions — the worst wheel score in the dataset. This is a critical product failure point for a category where mobility is the primary use case.",
+    "brand": "vip"
+  },
+  {
+    "type": "price_parity",
+    "headline": "Nasher Miles matches American Tourister on sentiment at 25% lower price",
+    "detail": "American Tourister sentiment: 74.2/100 at avg ₹4,899. Nasher Miles: 72.8/100 at avg ₹3,799. A gap of only 1.4 sentiment points for a ₹1,100 price difference — Nasher Miles is effectively competing head-to-head with the premium segment.",
+    "brand": null
+  },
+  {
+    "type": "market_presence",
+    "headline": "American Tourister dominates review volume",
+    "detail": "89,300 total ratings — 38% of all reviews in the dataset. High market penetration and the strongest absolute sentiment score (74.2). Their volume advantage also means their sentiment scores are the most statistically reliable in this analysis.",
+    "brand": "american_tourister"
+  },
+  {
+    "type": "value_for_money",
+    "headline": "Budget brands Aristocrat and VIP show a durability wall",
+    "detail": "Both sub-₹2,500 brands have negative durability sentiment scores (Aristocrat -0.32, VIP -0.24). The data suggests a clear quality floor around ₹2,500 — below that price point, durability complaints spike sharply, indicating a meaningful product quality gap rather than just a perception gap.",
+    "brand": null
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "brand_key": "safari",
+    "brand_name": "Safari",
+    "pricing": { "avg_price": 3299, "median_price": 3199, "min_price": 1899, "max_price": 6499, "avg_mrp": 5200, "avg_discount_pct": 37, "price_band": "mid-range" },
+    "ratings": { "avg_rating": 4.2, "total_reviews": 48200, "products_count": 12 },
+    "sentiment": { "score": 71.4, "positive_pct": 64.2, "neutral_pct": 20.1, "negative_pct": 15.7, "total_reviews_scored": 600 },
+    "themes": {
+      "positive": ["smooth wheels", "spacious compartment", "sturdy build", "good zipper quality", "lightweight", "value for money", "nice color options", "easy to carry"],
+      "negative": ["zipper issue after few months", "handle wobble", "minor scratches", "lock feels flimsy", "colour fading"]
+    },
+    "aspects": {
+      "wheels": { "score": 0.38, "mentions": 142, "sample_pos": ["wheels roll very smoothly"], "sample_neg": ["one wheel stopped working"] },
+      "handle": { "score": 0.15, "mentions": 98, "sample_pos": ["handle extends well"], "sample_neg": ["handle got stuck"] },
+      "zipper": { "score": -0.12, "mentions": 87, "sample_pos": ["zipper is smooth"], "sample_neg": ["zipper broke after 3 months"] },
+      "material": { "score": 0.28, "mentions": 76, "sample_pos": ["hard shell is great"], "sample_neg": [] },
+      "durability": { "score": 0.21, "mentions": 115, "sample_pos": ["lasted 2 years without issues"], "sample_neg": ["shell cracked at corner"] },
+      "size": { "score": 0.42, "mentions": 93, "sample_pos": ["fits all my clothes for a week trip"], "sample_neg": [] },
+      "lock": { "score": 0.05, "mentions": 44, "sample_pos": ["TSA lock works fine"], "sample_neg": ["combination lock is cheap"] },
+      "weight": { "score": 0.33, "mentions": 67, "sample_pos": ["very lightweight"], "sample_neg": [] }
+    },
+    "anomalies": []
+  },
+  {
+    "brand_key": "skybags",
+    "brand_name": "Skybags",
+    "pricing": { "avg_price": 2499, "median_price": 2299, "min_price": 1599, "max_price": 4999, "avg_mrp": 4800, "avg_discount_pct": 48, "price_band": "mid-range" },
+    "ratings": { "avg_rating": 4.0, "total_reviews": 62100, "products_count": 14 },
+    "sentiment": { "score": 66.8, "positive_pct": 58.3, "neutral_pct": 22.4, "negative_pct": 19.3, "total_reviews_scored": 700 },
+    "themes": {
+      "positive": ["attractive design", "affordable price", "good capacity", "lightweight frame", "nice colors", "decent quality for price", "good warranty support"],
+      "negative": ["zipper quality poor", "wheel noise", "fabric tears easily", "handle shaky", "stitching issues"]
+    },
+    "aspects": {
+      "wheels": { "score": 0.12, "mentions": 178, "sample_pos": ["wheels are decent"], "sample_neg": ["wheels make noise on floors"] },
+      "handle": { "score": -0.08, "mentions": 112, "sample_pos": [], "sample_neg": ["handle wobbles after a month"] },
+      "zipper": { "score": -0.31, "mentions": 134, "sample_pos": ["zipper is ok"], "sample_neg": ["zipper broke within 3 uses", "zipper got stuck badly"] },
+      "material": { "score": -0.09, "mentions": 89, "sample_pos": [], "sample_neg": ["fabric is thin", "material feels cheap"] },
+      "durability": { "score": -0.14, "mentions": 143, "sample_pos": ["still working after a year"], "sample_neg": ["handle broke on first trip"] },
+      "size": { "score": 0.38, "mentions": 81, "sample_pos": ["fits cabin baggage limits perfectly"], "sample_neg": [] },
+      "lock": { "score": -0.05, "mentions": 38, "sample_pos": [], "sample_neg": ["lock combination reset on its own"] },
+      "weight": { "score": 0.28, "mentions": 54, "sample_pos": ["very light bag"], "sample_neg": [] }
+    },
+    "anomalies": ["Skybags: strong zipper complaints (avg VADER -0.31) despite 4.0★ overall rating"]
+  },
+  {
+    "brand_key": "american_tourister",
+    "brand_name": "American Tourister",
+    "pricing": { "avg_price": 4899, "median_price": 4699, "min_price": 2999, "max_price": 9499, "avg_mrp": 7200, "avg_discount_pct": 32, "price_band": "premium" },
+    "ratings": { "avg_rating": 4.4, "total_reviews": 89300, "products_count": 15 },
+    "sentiment": { "score": 74.2, "positive_pct": 68.1, "neutral_pct": 18.6, "negative_pct": 13.3, "total_reviews_scored": 750 },
+    "themes": {
+      "positive": ["premium build quality", "smooth spinner wheels", "excellent durability", "professional look", "great capacity", "sturdy locks", "warranty honored quickly", "worth the price"],
+      "negative": ["expensive", "heavy compared to others", "limited color options", "occasional zipper issue at corner"]
+    },
+    "aspects": {
+      "wheels": { "score": 0.58, "mentions": 213, "sample_pos": ["360 degree spinner wheels are amazing", "wheels roll on any surface"], "sample_neg": [] },
+      "handle": { "score": 0.44, "mentions": 134, "sample_pos": ["telescopic handle is very smooth"], "sample_neg": [] },
+      "zipper": { "score": 0.22, "mentions": 118, "sample_pos": ["double zipper is strong"], "sample_neg": ["zipper corner stitching came loose"] },
+      "material": { "score": 0.51, "mentions": 107, "sample_pos": ["polycarbonate shell is very tough"], "sample_neg": [] },
+      "durability": { "score": 0.54, "mentions": 189, "sample_pos": ["survived rough baggage handling", "3 years no issues"], "sample_neg": [] },
+      "size": { "score": 0.35, "mentions": 98, "sample_pos": ["large capacity for the size"], "sample_neg": [] },
+      "lock": { "score": 0.41, "mentions": 77, "sample_pos": ["TSA lock is solid", "combination very secure"], "sample_neg": [] },
+      "weight": { "score": -0.18, "mentions": 88, "sample_pos": [], "sample_neg": ["heavier than expected", "quite heavy for carry-on"] }
+    },
+    "anomalies": ["American Tourister: weight complaints (avg VADER -0.18) despite strong overall sentiment"]
+  },
+  {
+    "brand_key": "vip",
+    "brand_name": "VIP",
+    "pricing": { "avg_price": 2899, "median_price": 2699, "min_price": 1499, "max_price": 5499, "avg_mrp": 5100, "avg_discount_pct": 43, "price_band": "mid-range" },
+    "ratings": { "avg_rating": 3.9, "total_reviews": 31400, "products_count": 10 },
+    "sentiment": { "score": 62.1, "positive_pct": 53.4, "neutral_pct": 23.8, "negative_pct": 22.8, "total_reviews_scored": 500 },
+    "themes": {
+      "positive": ["classic design", "widely available service centers", "decent size options", "recognizable brand", "good for short trips"],
+      "negative": ["outdated design", "wheel quality poor", "plastic feels cheap", "handle broke quickly", "zipper issues after months"]
+    },
+    "aspects": {
+      "wheels": { "score": -0.22, "mentions": 98, "sample_pos": [], "sample_neg": ["wheels broke after 2 trips", "wheels scratching the floor badly"] },
+      "handle": { "score": -0.16, "mentions": 76, "sample_pos": [], "sample_neg": ["handle snapped after one month"] },
+      "zipper": { "score": -0.19, "mentions": 82, "sample_pos": ["zipper ok"], "sample_neg": ["zipper teeth separated"] },
+      "material": { "score": -0.04, "mentions": 61, "sample_pos": ["fabric is ok"], "sample_neg": ["hard shell scratches easily"] },
+      "durability": { "score": -0.24, "mentions": 97, "sample_pos": [], "sample_neg": ["not durable at all", "broke on first international trip"] },
+      "size": { "score": 0.31, "mentions": 55, "sample_pos": ["good size for weekend trips"], "sample_neg": [] },
+      "lock": { "score": 0.08, "mentions": 29, "sample_pos": ["lock works fine"], "sample_neg": [] },
+      "weight": { "score": 0.19, "mentions": 41, "sample_pos": ["lightweight"], "sample_neg": [] }
+    },
+    "anomalies": ["VIP: strong wheel complaints (avg VADER -0.22) despite mid-range pricing"]
+  },
+  {
+    "brand_key": "aristocrat",
+    "brand_name": "Aristocrat",
+    "pricing": { "avg_price": 1899, "median_price": 1799, "min_price": 999, "max_price": 3499, "avg_mrp": 3800, "avg_discount_pct": 50, "price_band": "budget" },
+    "ratings": { "avg_rating": 3.8, "total_reviews": 27600, "products_count": 10 },
+    "sentiment": { "score": 60.3, "positive_pct": 51.2, "neutral_pct": 24.3, "negative_pct": 24.5, "total_reviews_scored": 500 },
+    "themes": {
+      "positive": ["very affordable", "decent for short trips", "lightweight", "ok for domestic travel", "large size options"],
+      "negative": ["cheap material", "wheels break quickly", "zipper unreliable", "handle flimsy", "not good for flights"]
+    },
+    "aspects": {
+      "wheels": { "score": -0.28, "mentions": 112, "sample_pos": [], "sample_neg": ["wheels fell off", "terrible wheels after first use"] },
+      "handle": { "score": -0.21, "mentions": 88, "sample_pos": [], "sample_neg": ["handle too short", "handle bent"] },
+      "zipper": { "score": -0.24, "mentions": 97, "sample_pos": [], "sample_neg": ["zipper very poor quality"] },
+      "material": { "score": -0.18, "mentions": 74, "sample_pos": ["ok for price"], "sample_neg": ["very cheap plastic"] },
+      "durability": { "score": -0.32, "mentions": 118, "sample_pos": [], "sample_neg": ["not durable", "broke on first trip"] },
+      "size": { "score": 0.29, "mentions": 62, "sample_pos": ["good size for the price"], "sample_neg": [] },
+      "lock": { "score": -0.14, "mentions": 34, "sample_pos": [], "sample_neg": ["lock is toy quality"] },
+      "weight": { "score": 0.22, "mentions": 48, "sample_pos": ["very light"], "sample_neg": [] }
+    },
+    "anomalies": []
+  },
+  {
+    "brand_key": "nasher_miles",
+    "brand_name": "Nasher Miles",
+    "pricing": { "avg_price": 3799, "median_price": 3599, "min_price": 2299, "max_price": 7499, "avg_mrp": 5500, "avg_discount_pct": 31, "price_band": "mid-range" },
+    "ratings": { "avg_rating": 4.3, "total_reviews": 18900, "products_count": 10 },
+    "sentiment": { "score": 72.8, "positive_pct": 65.7, "neutral_pct": 20.4, "negative_pct": 13.9, "total_reviews_scored": 500 },
+    "themes": {
+      "positive": ["great design", "premium feel at mid price", "excellent spinner wheels", "good zipper quality", "stylish appearance", "sturdy shell", "fast delivery", "worth every rupee"],
+      "negative": ["limited availability in stores", "slightly heavy", "price increased recently", "fewer color options"]
+    },
+    "aspects": {
+      "wheels": { "score": 0.52, "mentions": 127, "sample_pos": ["spinner wheels are very smooth", "360 degree rotation works perfectly"], "sample_neg": [] },
+      "handle": { "score": 0.38, "mentions": 89, "sample_pos": ["ergonomic handle grip", "handle height is perfect"], "sample_neg": [] },
+      "zipper": { "score": 0.31, "mentions": 78, "sample_pos": ["YKK zipper quality is excellent"], "sample_neg": [] },
+      "material": { "score": 0.44, "mentions": 83, "sample_pos": ["polycarbonate is high quality"], "sample_neg": [] },
+      "durability": { "score": 0.41, "mentions": 102, "sample_pos": ["survived airport baggage handling well"], "sample_neg": [] },
+      "size": { "score": 0.37, "mentions": 74, "sample_pos": ["spacious and organized compartments"], "sample_neg": [] },
+      "lock": { "score": 0.28, "mentions": 41, "sample_pos": ["TSA lock is reliable"], "sample_neg": [] },
+      "weight": { "score": -0.11, "mentions": 58, "sample_pos": [], "sample_neg": ["slightly heavier than expected"] }
+    },
+    "anomalies": []
+  }
+]

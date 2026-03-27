@@ -1,0 +1,177 @@
+[
+  {
+    "asin": "B08X5YQKF1", "brand": "safari", "title": "Safari Thorium 55 Cms Small Cabin Polycarbonate Hard Luggage Trolley Bag",
+    "price": 2799, "mrp": 4500, "discount_pct": 38, "rating": 4.3, "review_count": 5200,
+    "image_url": "", "product_url": "https://www.amazon.in/dp/B08X5YQKF1",
+    "review_count_scraped": 200,
+    "sentiment": { "score": 72.1, "positive_pct": 65.0, "neutral_pct": 20.0, "negative_pct": 15.0, "total_reviews_scored": 200 },
+    "themes": { "positive": ["smooth wheels", "good build", "spacious"], "negative": ["zipper issue", "scratches easily"] },
+    "aspects": {
+      "wheels": { "score": 0.41, "mentions": 34 , "sample_pos": [], "sample_neg": [] },
+      "zipper": { "score": -0.18, "mentions": 22, "sample_pos": [], "sample_neg": [] },
+      "durability": { "score": 0.24, "mentions": 38, "sample_pos": [], "sample_neg": [] },
+      "size": { "score": 0.45, "mentions": 28, "sample_pos": [], "sample_neg": [] },
+      "weight": { "score": 0.31, "mentions": 19, "sample_pos": [], "sample_neg": [] },
+      "handle": { "score": 0.15, "mentions": 17, "sample_pos": [], "sample_neg": [] },
+      "material": { "score": 0.28, "mentions": 21, "sample_pos": [], "sample_neg": [] },
+      "lock": { "score": 0.08, "mentions": 12, "sample_pos": [], "sample_neg": [] }
+    },
+    "star_distribution": { "1": 8, "2": 12, "3": 22, "4": 58, "5": 100 },
+    "top_positive_reviews": [
+      { "title": "Excellent bag for the price", "body": "Very happy with this purchase. The wheels are super smooth and the polycarbonate shell is sturdy. Fits perfectly in cabin overhead bin." }
+    ],
+    "top_negative_reviews": [
+      { "title": "Zipper issue after 3 months", "body": "Overall ok but the zipper started snagging after about 3 months of use. Not terrible but expected better for a mid-range bag." }
+    ]
+  },
+  {
+    "asin": "B09K4M7P2R", "brand": "safari", "title": "Safari Polaris 69 Cms Medium Check-in Polypropylene Hard Luggage",
+    "price": 3699, "mrp": 6000, "discount_pct": 38, "rating": 4.2, "review_count": 3800,
+    "image_url": "", "product_url": "https://www.amazon.in/dp/B09K4M7P2R",
+    "review_count_scraped": 200,
+    "sentiment": { "score": 70.8, "positive_pct": 63.0, "neutral_pct": 21.0, "negative_pct": 16.0, "total_reviews_scored": 200 },
+    "themes": { "positive": ["large capacity", "good lock", "value for money"], "negative": ["slightly heavy", "colour fading"] },
+    "aspects": {
+      "wheels": { "score": 0.35, "mentions": 31, "sample_pos": [], "sample_neg": [] },
+      "zipper": { "score": -0.09, "mentions": 19, "sample_pos": [], "sample_neg": [] },
+      "durability": { "score": 0.22, "mentions": 41, "sample_pos": [], "sample_neg": [] },
+      "size": { "score": 0.52, "mentions": 37, "sample_pos": [], "sample_neg": [] },
+      "weight": { "score": -0.15, "mentions": 24, "sample_pos": [], "sample_neg": [] },
+      "handle": { "score": 0.12, "mentions": 16, "sample_pos": [], "sample_neg": [] },
+      "material": { "score": 0.31, "mentions": 18, "sample_pos": [], "sample_neg": [] },
+      "lock": { "score": 0.21, "mentions": 14, "sample_pos": [], "sample_neg": [] }
+    },
+    "star_distribution": { "1": 10, "2": 14, "3": 25, "4": 62, "5": 89 },
+    "top_positive_reviews": [
+      { "title": "Spacious and sturdy", "body": "Packed a lot for a 10-day trip and there was still room. Shell held up well despite rough airline handling." }
+    ],
+    "top_negative_reviews": [
+      { "title": "Bit heavy", "body": "Bag itself is 3.8kg which eats into check-in allowance. Otherwise it's great." }
+    ]
+  },
+  {
+    "asin": "B07VXKL9QT", "brand": "american_tourister", "title": "American Tourister Linex Spinner 55 CM Small Cabin Hard Luggage",
+    "price": 3999, "mrp": 6500, "discount_pct": 38, "rating": 4.5, "review_count": 12400,
+    "image_url": "", "product_url": "https://www.amazon.in/dp/B07VXKL9QT",
+    "review_count_scraped": 200,
+    "sentiment": { "score": 76.3, "positive_pct": 70.0, "neutral_pct": 17.0, "negative_pct": 13.0, "total_reviews_scored": 200 },
+    "themes": { "positive": ["premium quality", "smooth spinner", "great design"], "negative": ["slightly pricey", "minor weight"] },
+    "aspects": {
+      "wheels": { "score": 0.62, "mentions": 54, "sample_pos": [], "sample_neg": [] },
+      "zipper": { "score": 0.28, "mentions": 31, "sample_pos": [], "sample_neg": [] },
+      "durability": { "score": 0.57, "mentions": 48, "sample_pos": [], "sample_neg": [] },
+      "size": { "score": 0.38, "mentions": 34, "sample_pos": [], "sample_neg": [] },
+      "weight": { "score": -0.21, "mentions": 28, "sample_pos": [], "sample_neg": [] },
+      "handle": { "score": 0.44, "mentions": 29, "sample_pos": [], "sample_neg": [] },
+      "material": { "score": 0.51, "mentions": 33, "sample_pos": [], "sample_neg": [] },
+      "lock": { "score": 0.42, "mentions": 21, "sample_pos": [], "sample_neg": [] }
+    },
+    "star_distribution": { "1": 5, "2": 8, "3": 15, "4": 52, "5": 120 },
+    "top_positive_reviews": [
+      { "title": "Best cabin bag I've owned", "body": "The spinner wheels are absolutely silent and smooth. Build quality is excellent. TSA lock works perfectly. Worth every rupee." }
+    ],
+    "top_negative_reviews": [
+      { "title": "Good but heavy", "body": "The bag quality is undeniable but at 2.6kg empty it's on the heavier side for a cabin bag. Fine for check-in but tight for carry-on allowances." }
+    ]
+  },
+  {
+    "asin": "B08NMYLP3S", "brand": "skybags", "title": "Skybags Mint Polycarbonate 55 cm Small Cabin Hard Trolley Bag",
+    "price": 2199, "mrp": 4500, "discount_pct": 51, "rating": 4.0, "review_count": 8700,
+    "image_url": "", "product_url": "https://www.amazon.in/dp/B08NMYLP3S",
+    "review_count_scraped": 200,
+    "sentiment": { "score": 63.4, "positive_pct": 55.0, "neutral_pct": 24.0, "negative_pct": 21.0, "total_reviews_scored": 200 },
+    "themes": { "positive": ["good looking design", "affordable", "lightweight"], "negative": ["zipper poor", "wheel noise", "handle issues"] },
+    "aspects": {
+      "wheels": { "score": 0.09, "mentions": 42, "sample_pos": [], "sample_neg": [] },
+      "zipper": { "score": -0.34, "mentions": 39, "sample_pos": [], "sample_neg": [] },
+      "durability": { "score": -0.11, "mentions": 36, "sample_pos": [], "sample_neg": [] },
+      "size": { "score": 0.41, "mentions": 29, "sample_pos": [], "sample_neg": [] },
+      "weight": { "score": 0.29, "mentions": 22, "sample_pos": [], "sample_neg": [] },
+      "handle": { "score": -0.14, "mentions": 27, "sample_pos": [], "sample_neg": [] },
+      "material": { "score": -0.08, "mentions": 24, "sample_pos": [], "sample_neg": [] },
+      "lock": { "score": -0.07, "mentions": 14, "sample_pos": [], "sample_neg": [] }
+    },
+    "star_distribution": { "1": 18, "2": 22, "3": 31, "4": 68, "5": 61 },
+    "top_positive_reviews": [
+      { "title": "Nice design, good price", "body": "Looks great and feels lightweight. Good for domestic travel and short trips." }
+    ],
+    "top_negative_reviews": [
+      { "title": "Zipper broke on first trip", "body": "Attractive bag but the zipper completely failed on my very first trip. Very disappointed." }
+    ]
+  },
+  {
+    "asin": "B09QR2XP5T", "brand": "nasher_miles", "title": "Nasher Miles Bangalore Polycarbonate 55cm Hard Trolley Cabin Luggage",
+    "price": 3299, "mrp": 5200, "discount_pct": 37, "rating": 4.4, "review_count": 4100,
+    "image_url": "", "product_url": "https://www.amazon.in/dp/B09QR2XP5T",
+    "review_count_scraped": 200,
+    "sentiment": { "score": 74.5, "positive_pct": 67.0, "neutral_pct": 19.5, "negative_pct": 13.5, "total_reviews_scored": 200 },
+    "themes": { "positive": ["premium feel", "excellent wheels", "great design", "YKK zipper"], "negative": ["slightly heavy", "price went up"] },
+    "aspects": {
+      "wheels": { "score": 0.55, "mentions": 38, "sample_pos": [], "sample_neg": [] },
+      "zipper": { "score": 0.34, "mentions": 27, "sample_pos": [], "sample_neg": [] },
+      "durability": { "score": 0.44, "mentions": 33, "sample_pos": [], "sample_neg": [] },
+      "size": { "score": 0.39, "mentions": 26, "sample_pos": [], "sample_neg": [] },
+      "weight": { "score": -0.13, "mentions": 21, "sample_pos": [], "sample_neg": [] },
+      "handle": { "score": 0.41, "mentions": 24, "sample_pos": [], "sample_neg": [] },
+      "material": { "score": 0.47, "mentions": 28, "sample_pos": [], "sample_neg": [] },
+      "lock": { "score": 0.31, "mentions": 17, "sample_pos": [], "sample_neg": [] }
+    },
+    "star_distribution": { "1": 6, "2": 10, "3": 18, "4": 64, "5": 102 },
+    "top_positive_reviews": [
+      { "title": "Surprised by the quality", "body": "Didn't expect this level of quality from an Indian brand. The YKK zipper, polycarbonate shell, and spinner wheels all feel genuinely premium." }
+    ],
+    "top_negative_reviews": [
+      { "title": "Good but got heavier", "body": "Great bag overall but it's a bit heavy empty. Also the price has gone up since I last checked." }
+    ]
+  },
+  {
+    "asin": "B07TGHL4P9", "brand": "vip", "title": "VIP Skyle 55 Cms Small Cabin Hard Luggage Trolley Bag",
+    "price": 2499, "mrp": 4800, "discount_pct": 48, "rating": 3.9, "review_count": 4200,
+    "image_url": "", "product_url": "https://www.amazon.in/dp/B07TGHL4P9",
+    "review_count_scraped": 200,
+    "sentiment": { "score": 60.8, "positive_pct": 52.0, "neutral_pct": 24.0, "negative_pct": 24.0, "total_reviews_scored": 200 },
+    "themes": { "positive": ["decent design", "ok for domestic", "affordable"], "negative": ["wheel issue", "cheap plastic", "handle poor"] },
+    "aspects": {
+      "wheels": { "score": -0.24, "mentions": 31, "sample_pos": [], "sample_neg": [] },
+      "zipper": { "score": -0.17, "mentions": 24, "sample_pos": [], "sample_neg": [] },
+      "durability": { "score": -0.22, "mentions": 28, "sample_pos": [], "sample_neg": [] },
+      "size": { "score": 0.28, "mentions": 22, "sample_pos": [], "sample_neg": [] },
+      "weight": { "score": 0.18, "mentions": 17, "sample_pos": [], "sample_neg": [] },
+      "handle": { "score": -0.19, "mentions": 21, "sample_pos": [], "sample_neg": [] },
+      "material": { "score": -0.08, "mentions": 19, "sample_pos": [], "sample_neg": [] },
+      "lock": { "score": 0.05, "mentions": 11, "sample_pos": [], "sample_neg": [] }
+    },
+    "star_distribution": { "1": 22, "2": 24, "3": 35, "4": 58, "5": 61 },
+    "top_positive_reviews": [
+      { "title": "Ok for short trips", "body": "Fine for domestic travel. Don't expect it to last more than a couple of years but for the price it's acceptable." }
+    ],
+    "top_negative_reviews": [
+      { "title": "Wheel broke on second trip", "body": "One of the wheels completely stopped rolling after just the second trip. Really poor quality for even mid-range pricing." }
+    ]
+  },
+  {
+    "asin": "B08RLKMPV2", "brand": "aristocrat", "title": "Aristocrat Luggage 58 Cm Small Hard Trolley Bag",
+    "price": 1699, "mrp": 3500, "discount_pct": 51, "rating": 3.7, "review_count": 3900,
+    "image_url": "", "product_url": "https://www.amazon.in/dp/B08RLKMPV2",
+    "review_count_scraped": 200,
+    "sentiment": { "score": 58.2, "positive_pct": 49.0, "neutral_pct": 25.0, "negative_pct": 26.0, "total_reviews_scored": 200 },
+    "themes": { "positive": ["very cheap", "lightweight", "ok for 1-2 trips"], "negative": ["very poor quality", "durability terrible", "wheels fell off"] },
+    "aspects": {
+      "wheels": { "score": -0.31, "mentions": 34, "sample_pos": [], "sample_neg": [] },
+      "zipper": { "score": -0.26, "mentions": 28, "sample_pos": [], "sample_neg": [] },
+      "durability": { "score": -0.34, "mentions": 38, "sample_pos": [], "sample_neg": [] },
+      "size": { "score": 0.24, "mentions": 19, "sample_pos": [], "sample_neg": [] },
+      "weight": { "score": 0.21, "mentions": 16, "sample_pos": [], "sample_neg": [] },
+      "handle": { "score": -0.22, "mentions": 24, "sample_pos": [], "sample_neg": [] },
+      "material": { "score": -0.19, "mentions": 21, "sample_pos": [], "sample_neg": [] },
+      "lock": { "score": -0.15, "mentions": 12, "sample_pos": [], "sample_neg": [] }
+    },
+    "star_distribution": { "1": 28, "2": 31, "3": 38, "4": 52, "5": 51 },
+    "top_positive_reviews": [
+      { "title": "Works for the price", "body": "If you need something cheap for 1-2 trips and don't care about longevity, this is fine. Just don't expect it to last." }
+    ],
+    "top_negative_reviews": [
+      { "title": "Wheels fell off on first use", "body": "One wheel literally fell off at the airport on my very first trip. Completely unacceptable even at this price point." }
+    ]
+  }
+]

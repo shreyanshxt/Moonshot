@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+dist/
+.DS_Store
+
+# Data
+# Exclude raw data to keep repo clean, but keep processed for immediate demo
+data/raw/
+scraper.log

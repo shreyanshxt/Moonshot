@@ -1,0 +1,601 @@
+[
+  {
+    "brand_key": "safari",
+    "brand_name": "Safari",
+    "pricing": {
+      "avg_price": 4039.0,
+      "median_price": 4049.0,
+      "min_price": 2599.0,
+      "max_price": 5459.0,
+      "avg_mrp": 16402.83,
+      "avg_discount_pct": 22.5,
+      "price_band": "mid-range"
+    },
+    "ratings": {
+      "avg_rating": 4.22,
+      "total_reviews": 61536,
+      "products_count": 6
+    },
+    "sentiment": {
+      "score": 68.4,
+      "positive_pct": 81.8,
+      "neutral_pct": 0.0,
+      "negative_pct": 18.2,
+      "total_reviews_scored": 44
+    },
+    "themes": {
+      "positive": [
+        "good",
+        "quality",
+        "wheels",
+        "handle",
+        "lock",
+        "smooth",
+        "design",
+        "looks"
+      ],
+      "negative": [
+        "quality",
+        "wheels",
+        "after",
+        "streching",
+        "them",
+        "also",
+        "bags",
+        "seller"
+      ]
+    },
+    "aspects": {
+      "wheels": {
+        "score": 0.298,
+        "mentions": 17,
+        "sample_pos": [
+          "wheels: wheels are smooth and easy to move.✅ 5.",
+          "wheels are alright too.",
+          "wheels below average quality.scratch resistant yes."
+        ],
+        "sample_neg": [
+          "wheels & zeep quality is poor."
+        ]
+      },
+      "handle": {
+        "score": 0.6,
+        "mentions": 5,
+        "sample_pos": [
+          "handle: handle is strong and comfortable to hold.✅ 6.",
+          "writing review after 1 year of purchasepositives:- good quality- good color- good space- good for cabin bags- wheels are nice- rolls nicely- light weight- handle quality is good but design and switch is notnegatives:- expensive for its design and quality- not balanced properly(design is flawed)- fell down easily- handle and extended handle is not sturdy- extended handle causes problem(started after 2 months)- handle switch is not of good qualityfor this price, i would expect something better.",
+          "the build feels extremely sturdy yet lightweight, making it easy to handle during travel."
+        ],
+        "sample_neg": []
+      },
+      "zipper": {
+        "score": 0.272,
+        "mentions": 9,
+        "sample_pos": [
+          "zip quality: zip is smooth and strong.✅ 8.",
+          "zippers are quite smooth, good quality.",
+          "good and sturdy bags..i bought set of 3, big and medium size is ok, but small seems to be too small.zip quality good, surface texture and design look cool, good vibrant color, inner fabric seems to be durable."
+        ],
+        "sample_neg": [
+          "product is not of good quality.after one use it zip is broken and deflated.",
+          "zipper quality also doubted as it's streching also not looking perfect.",
+          "inside view not very convenient, side zip pocket not provided, part a with closed zip inconvenient to open & close with only one side zip."
+        ]
+      },
+      "material": {
+        "score": 0.441,
+        "mentions": 11,
+        "sample_pos": [
+          "quality: material is strong and durable.✅ 2.",
+          "bag bahut achhi quality ka hai 👍 material strong hai aur wheels bhi smooth chal rahe hain.",
+          "the hard polycarbonate shell feels tough and has protected my luggage well even after multiple journeys — it doesn’t show scratches easily and still looks great."
+        ],
+        "sample_neg": [
+          "because of this, keeping clothes and accessories neatly arranged becomes difficult.overall, it’s good for carrying large quantities, but not ideal if you prefer organized packing.",
+          "clothes holding streeps just swing with single streching on border of trolley no additional support to hold them."
+        ]
+      },
+      "durability": {
+        "score": 0.368,
+        "mentions": 36,
+        "sample_pos": [
+          "quality: material is strong and durable.✅ 2.",
+          "handle: handle is strong and comfortable to hold.✅ 6.",
+          "zip quality: zip is smooth and strong.✅ 8."
+        ],
+        "sample_neg": [
+          "wheels & zeep quality is poor.",
+          "the outer shell looks premium and durable.however, the major drawback is the lack of internal layers or compartments.",
+          "product is not of good quality.after one use it zip is broken and deflated."
+        ]
+      },
+      "size": {
+        "score": 0.378,
+        "mentions": 11,
+        "sample_pos": [
+          "sizes: 3 different sizes are very useful for short and long trips.✅ 4.",
+          "is lightweight,good price but could have been a little better quality ,good size for long journey travelling",
+          "there is no proper separation or spacing to organize items—it’s basically one large open area like a box."
+        ],
+        "sample_neg": [
+          "because of this, keeping clothes and accessories neatly arranged becomes difficult.overall, it’s good for carrying large quantities, but not ideal if you prefer organized packing."
+        ]
+      },
+      "lock": {
+        "score": 0.326,
+        "mentions": 10,
+        "sample_pos": [
+          "lock system: lock is good and works properly.✅ 9.",
+          "the fixed combination lock gives good peace of mind, and the textured finish adds a premium look.",
+          "lock was not functional.need to add more good quality lock"
+        ],
+        "sample_neg": [
+          "it became a headache during a trip to open its lock.if you are here for a suggestion, my verdict is go buy it offline at least you will be able to complain them if it will not work after 5 months."
+        ]
+      },
+      "weight": {
+        "score": 0.467,
+        "mentions": 10,
+        "sample_pos": [
+          "is lightweight,good price but could have been a little better quality ,good size for long journey travelling",
+          "lightweight yes.",
+          "overall a good product,light weight, must for travellers."
+        ],
+        "sample_neg": [
+          "weight is as expected no issues there."
+        ]
+      }
+    },
+    "anomalies": []
+  },
+  {
+    "brand_key": "skybags",
+    "brand_name": "Skybags",
+    "pricing": {
+      "avg_price": 2199.0,
+      "median_price": 2199.0,
+      "min_price": 2199,
+      "max_price": 2199,
+      "avg_mrp": 4500.0,
+      "avg_discount_pct": 51.0,
+      "price_band": "budget"
+    },
+    "ratings": {
+      "avg_rating": 4.0,
+      "total_reviews": 8700,
+      "products_count": 1
+    },
+    "sentiment": {
+      "score": 68.1,
+      "positive_pct": 50.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 50.0,
+      "total_reviews_scored": 10
+    },
+    "themes": {
+      "positive": [
+        "excellent",
+        "fresh",
+        "working",
+        "perfectly"
+      ],
+      "negative": [
+        "terrible",
+        "back",
+        "then",
+        "long"
+      ]
+    },
+    "aspects": {
+      "wheels": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "handle": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "zipper": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "material": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "durability": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "size": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "lock": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "weight": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      }
+    },
+    "anomalies": []
+  },
+  {
+    "brand_key": "american_tourister",
+    "brand_name": "American Tourister",
+    "pricing": {
+      "avg_price": 3999.0,
+      "median_price": 3999.0,
+      "min_price": 3999,
+      "max_price": 3999,
+      "avg_mrp": 6500.0,
+      "avg_discount_pct": 38.0,
+      "price_band": "mid-range"
+    },
+    "ratings": {
+      "avg_rating": 4.5,
+      "total_reviews": 12400,
+      "products_count": 1
+    },
+    "sentiment": {
+      "score": 68.1,
+      "positive_pct": 50.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 50.0,
+      "total_reviews_scored": 10
+    },
+    "themes": {
+      "positive": [
+        "excellent",
+        "fresh",
+        "working",
+        "perfectly"
+      ],
+      "negative": [
+        "terrible",
+        "back",
+        "then",
+        "long"
+      ]
+    },
+    "aspects": {
+      "wheels": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "handle": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "zipper": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "material": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "durability": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "size": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "lock": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "weight": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      }
+    },
+    "anomalies": []
+  },
+  {
+    "brand_key": "vip",
+    "brand_name": "Vip",
+    "pricing": {
+      "avg_price": 2499.0,
+      "median_price": 2499.0,
+      "min_price": 2499,
+      "max_price": 2499,
+      "avg_mrp": 4800.0,
+      "avg_discount_pct": 48.0,
+      "price_band": "budget"
+    },
+    "ratings": {
+      "avg_rating": 3.9,
+      "total_reviews": 4200,
+      "products_count": 1
+    },
+    "sentiment": {
+      "score": 68.1,
+      "positive_pct": 50.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 50.0,
+      "total_reviews_scored": 10
+    },
+    "themes": {
+      "positive": [
+        "excellent",
+        "fresh",
+        "working",
+        "perfectly"
+      ],
+      "negative": [
+        "terrible",
+        "back",
+        "then",
+        "long"
+      ]
+    },
+    "aspects": {
+      "wheels": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "handle": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "zipper": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "material": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "durability": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "size": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "lock": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "weight": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      }
+    },
+    "anomalies": []
+  },
+  {
+    "brand_key": "aristocrat",
+    "brand_name": "Aristocrat",
+    "pricing": {
+      "avg_price": 1699.0,
+      "median_price": 1699.0,
+      "min_price": 1699,
+      "max_price": 1699,
+      "avg_mrp": 3500.0,
+      "avg_discount_pct": 51.0,
+      "price_band": "budget"
+    },
+    "ratings": {
+      "avg_rating": 3.7,
+      "total_reviews": 3900,
+      "products_count": 1
+    },
+    "sentiment": {
+      "score": 68.1,
+      "positive_pct": 50.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 50.0,
+      "total_reviews_scored": 10
+    },
+    "themes": {
+      "positive": [
+        "excellent",
+        "fresh",
+        "working",
+        "perfectly"
+      ],
+      "negative": [
+        "terrible",
+        "back",
+        "then",
+        "long"
+      ]
+    },
+    "aspects": {
+      "wheels": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "handle": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "zipper": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "material": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "durability": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "size": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "lock": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "weight": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      }
+    },
+    "anomalies": []
+  },
+  {
+    "brand_key": "nasher_miles",
+    "brand_name": "Nasher Miles",
+    "pricing": {
+      "avg_price": 3299.0,
+      "median_price": 3299.0,
+      "min_price": 3299,
+      "max_price": 3299,
+      "avg_mrp": 5200.0,
+      "avg_discount_pct": 37.0,
+      "price_band": "mid-range"
+    },
+    "ratings": {
+      "avg_rating": 4.4,
+      "total_reviews": 4100,
+      "products_count": 1
+    },
+    "sentiment": {
+      "score": 68.1,
+      "positive_pct": 50.0,
+      "neutral_pct": 0.0,
+      "negative_pct": 50.0,
+      "total_reviews_scored": 10
+    },
+    "themes": {
+      "positive": [
+        "excellent",
+        "fresh",
+        "working",
+        "perfectly"
+      ],
+      "negative": [
+        "terrible",
+        "back",
+        "then",
+        "long"
+      ]
+    },
+    "aspects": {
+      "wheels": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "handle": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "zipper": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "material": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "durability": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "size": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "lock": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      },
+      "weight": {
+        "score": null,
+        "mentions": 0,
+        "sample_pos": [],
+        "sample_neg": []
+      }
+    },
+    "anomalies": []
+  }
+]

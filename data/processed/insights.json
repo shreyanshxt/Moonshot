@@ -1,0 +1,26 @@
+[
+  {
+    "type": "value_for_money",
+    "headline": "Aristocrat delivers the best value-for-money",
+    "detail": "Sentiment score of 68.1 at an avg price of ₹1,699 — the best sentiment-per-rupee ratio across all brands.",
+    "brand": "aristocrat"
+  },
+  {
+    "type": "discount_dependency",
+    "headline": "Skybags relies heavily on discounting",
+    "detail": "Avg discount of 51% but only 4.0★ rating — heavy discounting may signal product perception issues rather than demand generation.",
+    "brand": "skybags"
+  },
+  {
+    "type": "hidden_dissatisfaction",
+    "headline": "American Tourister has a rating–sentiment gap",
+    "detail": "Star rating implies 4.5★ satisfaction but review sentiment score is only 68.1/100. Customers may rate generously but write critically.",
+    "brand": "american_tourister"
+  },
+  {
+    "type": "market_presence",
+    "headline": "Safari dominates review volume",
+    "detail": "61,536 total ratings — 65% of all reviews in the dataset. High market penetration but check if sentiment holds.",
+    "brand": "safari"
+  }
+]
