@@ -1,8 +1,9 @@
-# 🧊 Moonshot: Luggage Intelligence Dashboard
+# 🌙 Moonshot: Luggage Intelligence Dashboard
+
+![Dashboard Showcase](images/dashboard_showcase.png)
 
 Moonshot is a premium, real-time competitive intelligence platform designed to analyze the luggage market on Amazon India. It combines advanced web scraping with AI-driven sentiment analysis to provide a high-fidelity view of brand performance, customer satisfaction, and product positioning.
 
-![Dashboard Preview](https://via.placeholder.com/1200x600.png?text=Moonshot+Intelligence+Dashboard+Preview)
 
 ## ✨ Key Features
 
