@@ -3001,7 +3001,7 @@
       "positive_pct": 0,
       "neutral_pct": 0,
       "negative_pct": 0,
-      "total": 0
+      "total_reviews_scored": 0
     },
     "themes": {
       "positive": [],
@@ -5055,7 +5055,7 @@
       "positive_pct": 0,
       "neutral_pct": 0,
       "negative_pct": 0,
-      "total": 0
+      "total_reviews_scored": 0
     },
     "themes": {
       "positive": [],

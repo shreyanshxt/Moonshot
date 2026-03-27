@@ -146,7 +146,8 @@ def aggregate_brand_sentiment(scored_reviews: list[dict], decay_rate: float = 0.
     Includes time-decay: recent reviews (last 365 days) carry more weight.
     """
     if not scored_reviews:
-        return {"score": 50.0, "positive_pct": 0, "neutral_pct": 0, "negative_pct": 0, "total": 0}
+        return {"score": 50.0, "positive_pct": 0, "neutral_pct": 0, "negative_pct": 0, "total_reviews_scored": 0}
+
 
     now = datetime.now()
     weights = []
