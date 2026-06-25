@@ -1,11 +1,11 @@
-# 🌙 Moonshot: Luggage Intelligence Dashboard
+# Moonshot: Luggage Intelligence Dashboard
 
 ![Dashboard Showcase](images/dashboard_showcase.png)
 
 Moonshot is a premium, real-time competitive intelligence platform designed to analyze the luggage market on Amazon India. It combines advanced web scraping with AI-driven sentiment analysis to provide a high-fidelity view of brand performance, customer satisfaction, and product positioning.
 
 
-## ✨ Key Features
+## Key Features
 
 - **Automated Discovery**: Adaptive Serper-powered discovery layer to find products even when Amazon search is blocked.
 - **Deep Sentiment Engine**: Dual-scoring system using **VADER** and **RoBERTa** (`cardiffnlp/twitter-roberta-base-sentiment`) for high-precision sentiment extraction.
@@ -13,7 +13,7 @@ Moonshot is a premium, real-time competitive intelligence platform designed to a
 - **Premium Glassmorphism UI**: A stunning, modern interface built with **React**, **Tailwind CSS**, and **Framer Motion** equivalents for a slick, analytical experience.
 - **Data Pipeline**: Automated processing that transitions raw scraped JSON into structured competitive insights.
 
-## 🚀 Architecture
+## Architecture
 
 ```mermaid
 graph TD
@@ -23,7 +23,7 @@ graph TD
     D -->|React Frontend| E[Glassmorphism Dashboard]
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Layer | Technology |
 |-------|------------|
@@ -35,7 +35,7 @@ graph TD
 
 ---
 
-## 🏁 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 
@@ -84,7 +84,7 @@ Accessible at `http://localhost:5173`.
 
 ---
 
-## 📊 Analytics Methodology
+##  Analytics Methodology
 
 - **Sentiment Scoring**: Reviews are scored using a weighted average of RoBERTa confidence scores, normalized to a 0-100 scale.
 - **Aspect Extraction**: We use KeyBERT to identify core product aspects and calculate sentiment for each individual feature, allowing brands to see exactly where they are winning or losing.
@@ -92,7 +92,7 @@ Accessible at `http://localhost:5173`.
 
 ---
 
-## 🛡️ Stealth & Resilience
+##  Stealth & Resilience
 
 Amazon India employs aggressive anti-scraping measures. Moonshot bypasses these using:
 - **Serper Discovery**: Using Google Search results to find product links without direct Amazon search interaction.
@@ -101,11 +101,11 @@ Amazon India employs aggressive anti-scraping measures. Moonshot bypasses these 
 
 ---
 
-## 🔮 Future Roadmap
+##  Future Roadmap
 
 - [ ] **Anomaly Detection**: Flagging unnatural review patterns (velocity spikes).
 - [ ] **Historical Price Tracking**: Cron-based price monitoring for discount strategy analysis.
 - [ ] **Fine-tuned LLM**: Moving to an LLM-based summary engine for "Agent Insights".
 
 ---
-*Created with ❤️ for Luggage Intelligence.*
+
